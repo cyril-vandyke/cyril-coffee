@@ -1,4 +1,4 @@
-baseURL = "http://cyril.coffee/"
+baseURL = "https://cyril.coffee/"
 languageCode = "en-us"
 title = "Cyril, A Website"
 theme = "minimal"
