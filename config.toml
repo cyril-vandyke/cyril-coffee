@@ -5,7 +5,7 @@ theme = "minimal"
 
 [params]
     author = "Cyril Van Dyke"
-    description = "Software Engineer, Corgi Aficionado, Seltzer Sommelier"
+    description = "Software Engineer, Corgi Aficionado, Dad Hat Enthusiast"
     githubUsername = "cyril-vandyke"
     accent = "purple"
     showBorder = true
@@ -29,6 +29,11 @@ theme = "minimal"
     url = "/page/about/"
     name = "About Me"
     weight = 3
+
+[[menu.main]]
+    url = "/page/resume/"
+    name = "Résumé"
+    weight = 4
 
 [[menu.icon]]
     url = "mailto:cyril.vandyke+coffee@gmail.com"
